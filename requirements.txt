@@ -1,0 +1,3 @@
+# Tkinter is included with standard Windows Python installations.
+# Stockfish is an external UCI executable configured in the Settings tab.
+python-chess>=1.999,<2.0

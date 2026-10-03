@@ -1,0 +1,7 @@
+{
+  "stockfish_path": "C:\\Users\\amitj\\Downloads\\stockfish-windows-x86-64-universal\\stockfish\\stockfish-windows-x86-64-universal.exe",
+  "engine": "stockfish",
+  "analysis_time": 1.0,
+  "depth": 3,
+  "skill": 10
+}
